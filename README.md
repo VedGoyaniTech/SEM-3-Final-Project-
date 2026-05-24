@@ -1,1 +1,2 @@
-# SEM-3-Final-Project-
+# SEM-3-Final-Project
+(hospital management system)
